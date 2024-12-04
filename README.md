@@ -16,26 +16,6 @@
 
 ---
 
-## 🛠️ Installation
-
-Clone the repository and follow these steps:
-
-```bash
-# Clone the repository
-
----
-
-git clone https://github.com/yourusername/reponame.git
-
-# Navigate to the project directory
-cd reponame
-
-# Install dependencies
-npm install
-
-# Start the project
-npm start
-
 ## 📬 Contact
 
 Feel free to reach out if you have any questions, feedback, or collaboration ideas!
