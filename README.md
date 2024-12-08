@@ -4,14 +4,14 @@
 ![GitHub forks](https://img.shields.io/github/forks/raymondfanuel/RAY-MD?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/raymondfanuel/RAY-MD)
 
-> **Short Project Description:** This repositories provide an outstanding alternatives that coples with normal life.
+> **Short Project Description:** This repositories provide an outstanding alternatives and project that coples with normal life.
 
 ---
 
-## 🚀 Features
+## 🚀 Projects
 
-- ✨ **Feature 1:** A WHATSAPP BOT.
-- 📦 **Feature 2:** MATOKEO WEBSITE.
+- ✨ **Project 1:** A WHATSAPP BOT.
+- 📦 **Project 2:** MATOKEO WEBSITE.
 ---
 
 ## 📬 Contact
