@@ -4,16 +4,14 @@
 ![GitHub forks](https://img.shields.io/github/forks/raymondfanuel/RAY-MD?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/raymondfanuel/RAY-MD)
 
-> **Short Project Description:** A brief and engaging description of your project. Explain what it does and why it's awesome.
+> **Short Project Description:** This repositories provide an outstanding alternatives that coples with normal life.
 
 ---
 
 ## 🚀 Features
 
-- ✨ **Feature 1:** Highlight the first amazing feature.
-- 📦 **Feature 2:** Add another key aspect of your project.
-- 🌐 **Feature 3:** Mention if it’s web, mobile, or something else.
-
+- ✨ **Feature 1:** A WHATSAPP BOT.
+- 📦 **Feature 2:** MATOKEO WEBSITE.
 ---
 
 ## 📬 Contact
