@@ -12,6 +12,11 @@
 
 - ✨ **Project 1:** A WHATSAPP BOT.
 - 📦 **Project 2:** MATOKEO WEBSITE.
+- 📦 **Project 3:** 
+- 📦 **Project 4:** 
+- 📦 **Project 5:** 
+- 📦 **Project 6:** 
+- 📦 **Project 7:** 
 ---
 
 ## 📬 Contact
