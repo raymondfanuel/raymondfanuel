@@ -9,14 +9,6 @@
 ---
 
 ## 🚀 Projects
-
-- ✨ **Project 1:** A WHATSAPP BOT.
-- 📦 **Project 2:** MATOKEO WEBSITE.
-- 📦 **Project 3:** STUDENT MANAGEMENT SYSTEM.
-- 📦 **Project 4:** HOSPITAL MANAGEMENT SYSTEM.
-- 📦 **Project 5:** POINT OF SALE.
-- 📦 **Project 6:** ONLINE CANTEEN.
-- 📦 **Project 7:** VOTING WEBSITE
 ---
 
 ## 📬 Contact
