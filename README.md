@@ -21,7 +21,6 @@
 Hey! I’m **Raymond Fanuel**, known online as **Rayytricks** — a passionate **Computer Engineer**, **Web Developer**, and **Cybersecurity Enthusiast** from **Dar es Salaam Institute of Technology (DIT)** 🇹🇿  
 
 💡 I love building creative and secure tech solutions — from **web systems**, **IoT projects**, to **network automation tools**.  
-🌍 I’m currently doing my **Industrial Practical Training at Muhimbili National Hospital (IT Section)**.  
 🎯 Always learning something new — from **C++ fundamentals** to **ethical hacking** and **server management**.  
 🎶 I also vibe to **Bongo Flava** while coding 😎  
 
