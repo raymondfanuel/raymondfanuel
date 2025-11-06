@@ -10,7 +10,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=raymondfanuel&label=Profile%20Views&color=00f7ff&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/raymondfanuel?style=social)
 ![Stars](https://img.shields.io/github/stars/raymondfanuel?style=social)
-![Issues](https://img.shields.io/github/issues/raymondfanuel/RAY-MD?color=00f7ff)
 
 </div>
 
