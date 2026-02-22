@@ -2,12 +2,12 @@
 <!--           HEADER               -->
 <!-- ============================== -->
 
-<h1 align="center">Raymond Fanuel</h1>
+<h1 align="center">z3r0trace</h1>
 <h3 align="center">Computer Engineer • Full Stack Developer • Cybersecurity Engineer</h3>
 
 <p align="center">
   Dar es Salaam, Tanzania 🇹🇿 <br>
-  <b>Building Secure, Scalable & Real-World Tech Solutions</b>
+  <b>Building Secure, Scalable & Real-World Tech Systems</b>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Raymond Fanuel (Rayytricks)** — a Computer Engineer from **Dar es Salaam Institute of Technology (DIT)** with strong interests in:
+I’m **Raymond Fanuel**, known online as **z3r0trace** — a Computer Engineer from **Dar es Salaam Institute of Technology (DIT)** with strong interests in:
 
 - 🔐 Cybersecurity & Ethical Hacking  
 - 🌐 Full Stack Web Development  
@@ -28,7 +28,7 @@ I’m **Raymond Fanuel (Rayytricks)** — a Computer Engineer from **Dar es Sala
 
 I focus on building **secure systems**, not just working systems.
 
-> “Security first. Clean architecture always.”
+> “Move silent. Build strong. Leave zero trace.”
 
 ---
 
@@ -36,65 +36,67 @@ I focus on building **secure systems**, not just working systems.
 
 I design and develop:
 
-- 🔒 Authentication & secure web systems  
-- 🧠 Smart IoT-based monitoring solutions  
-- 🖥️ Network-aware applications  
-- 📊 Backend systems with structured databases  
-- ⚙️ Automation & system tools  
+- 🔒 Authentication & secure web platforms  
+- 🧠 Smart IoT monitoring systems  
+- 🖥️ Backend architectures with structured databases  
+- 📊 Secure API-based applications  
+- ⚙️ Automation & security testing tools  
 
 ---
 
 ## 🏆 Selected Projects
 
 ### 💧 Smart IoT Water Meter System
-Real-time water usage tracking system with alert notifications.  
+Real-time water usage tracking with automated alerts.  
 **Tech:** Arduino, PHP, MySQL, IoT Integration  
 
 ---
 
-### 💳 RFID Smartcard System
+### 💳 RFID Smartcard Authentication System
 Student authentication system using RFID technology.  
-**Tech:** PHP, MySQL, RFID Modules  
+**Tech:** PHP, MySQL, RFID  
 
 ---
 
 ### 🍔 Online Canteen Ordering System
-Web-based food ordering and management system.  
+Web-based ordering & management platform.  
 **Tech:** HTML, CSS, JavaScript, PHP, MySQL  
 
 ---
 
 ### 🎮 Secure Gaming Platform
-API-based authentication with protected routes.  
+API-protected authentication and secure routing.  
 **Tech:** Node.js, JavaScript, Vercel  
 
 ---
 
 ### 🎓 C++ Student Management System
-Console-based structured data management using pointers and structs.  
+Console-based data management using structs, arrays & pointers.  
 **Tech:** C++  
 
 ---
 
 ## 🛠 Technical Stack
 
-### Programming Languages
+### Programming
 - C++
 - Python
 - PHP
 - JavaScript
 
-### Web Technologies
+### Web & Backend
 - HTML5
 - CSS3
 - Bootstrap
 - MySQL
+- REST APIs
 
-### Systems & Tools
+### Systems & Security
 - Linux
 - Kali Linux
 - Git
-- Vercel
+- Server Configuration
+- Web Security Testing
 
 ---
 
@@ -109,20 +111,20 @@ Console-based structured data management using pointers and structs.
 
 ## 🎯 2026 Goals
 
-- Master Advanced Backend Architecture  
+- Advance in Offensive Security & Red Teaming  
 - Build a Hosting Control Panel  
-- Develop Advanced Security Testing Tools  
+- Develop a Professional Security Toolkit  
 - Organize a Large-Scale Cybersecurity Competition  
-- Contribute to Open Source  
+- Contribute to Open Source Security Projects  
 
 ---
 
-## 🏅 Experience & Achievements
+## 🏅 Achievements
 
 - 🥇 Huawei Talent Competition – Network Track Participant  
-- 🏥 IT Intern – Muhimbili National Hospital  
 - 👨‍🏫 Founder – Coding Community at DIT  
-- 🔐 Active in CTF & Web Security Practice  
+- 🔐 Active CTF Player & Web Security Enthusiast  
+- 💻 Builder of Multiple Real-World Web Systems  
 
 ---
 
@@ -140,5 +142,5 @@ Console-based structured data management using pointers and structs.
 ---
 
 <p align="center">
-  <i>Building. Securing. Scaling.</i>
+  <i>Build Secure. Think Deep. Leave Zero Trace.</i>
 </p>
