@@ -2,145 +2,148 @@
 <!--           HEADER               -->
 <!-- ============================== -->
 
-<h1 align="center">z3r0trace</h1>
-<h3 align="center">Computer Engineer • Full Stack Developer • Cybersecurity Engineer</h3>
+<h1 align="center">Raymond Fanuel</h1>
+<h3 align="center">Computer Engineer • Full Stack Developer • Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  Dar es Salaam, Tanzania 🇹🇿 <br>
-  <b>Building Secure, Scalable & Real-World Tech Systems</b>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Designing+secure+and+scalable+systems;Full+Stack+Developer+with+Cybersecurity+Focus;Building+reliable+web%2C+network%2C+and+IoT+solutions"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Dar es Salaam, Tanzania 🇹🇿 <br />
+  Designing and developing secure, scalable, and practical technology systems
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raymondfanuel&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/raymondfanuel?style=social" />
+  <img src="https://img.shields.io/github/stars/raymondfanuel?style=social" />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-I’m **Raymond Fanuel**, known online as **z3r0trace** — a Computer Engineer from **Dar es Salaam Institute of Technology (DIT)** with strong interests in:
-
-- 🔐 Cybersecurity & Ethical Hacking  
-- 🌐 Full Stack Web Development  
-- 📡 Networking & Infrastructure  
-- 💡 IoT Systems & Smart Automation  
-
-I focus on building **secure systems**, not just working systems.
-
-> “Move silent. Build strong. Leave zero trace.”
-
----
-
-## 🚀 What I Build
-
-I design and develop:
-
-- 🔒 Authentication & secure web platforms  
-- 🧠 Smart IoT monitoring systems  
-- 🖥️ Backend architectures with structured databases  
-- 📊 Secure API-based applications  
-- ⚙️ Automation & security testing tools  
-
----
-
-## 🏆 Selected Projects
-
-### 💧 Smart IoT Water Meter System
-Real-time water usage tracking with automated alerts.  
-**Tech:** Arduino, PHP, MySQL, IoT Integration  
-
----
-
-### 💳 RFID Smartcard Authentication System
-Student authentication system using RFID technology.  
-**Tech:** PHP, MySQL, RFID  
-
----
-
-### 🍔 Online Canteen Ordering System
-Web-based ordering & management platform.  
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL  
-
----
-
-### 🎮 Secure Gaming Platform
-API-protected authentication and secure routing.  
-**Tech:** Node.js, JavaScript, Vercel  
-
----
-
-### 🎓 C++ Student Management System
-Console-based data management using structs, arrays & pointers.  
-**Tech:** C++  
-
----
-
-## 🛠 Technical Stack
-
-### Programming
-- C++
-- Python
-- PHP
-- JavaScript
-
-### Web & Backend
-- HTML5
-- CSS3
-- Bootstrap
-- MySQL
-- REST APIs
-
-### Systems & Security
-- Linux
-- Kali Linux
-- Git
-- Server Configuration
-- Web Security Testing
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raymondfanuel&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondfanuel&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Advance in Offensive Security & Red Teaming  
-- Build a Hosting Control Panel  
-- Develop a Professional Security Toolkit  
-- Organize a Large-Scale Cybersecurity Competition  
-- Contribute to Open Source Security Projects  
-
----
-
-## 🏅 Achievements
-
-- 🥇 Huawei Talent Competition – Network Track Participant  
-- 👨‍🏫 Founder – Coding Community at DIT  
-- 🔐 Active CTF Player & Web Security Enthusiast  
-- 💻 Builder of Multiple Real-World Web Systems  
-
----
-
-## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:raymondfanuel1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/raymondfanuel">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## About Me
+
+I am **Raymond Fanuel**, a Computer Engineering graduate from the **Dar es Salaam Institute of Technology (DIT)** with interests in secure software development, networking, and modern web systems.
+
+My work focuses on building **reliable, secure, and scalable applications** across web platforms, backend systems, and IoT-based solutions.
+
+---
+
+## Core Interests
+
+- Cybersecurity and Web Security Testing
+- Full Stack Web Development
+- Network Infrastructure and Systems Administration
+- IoT Systems and Automation
+- Secure API and Authentication Architecture
+
+---
+
+## Featured Projects
+
+### Smart IoT Water Meter System
+A monitoring platform for real-time water usage tracking with automated alerts and reporting.  
+**Tech Stack:** Arduino, PHP, MySQL, IoT Integration
+
+### RFID Smartcard Authentication System
+A student authentication and identity verification system using RFID technology.  
+**Tech Stack:** PHP, MySQL, RFID
+
+### Online Canteen Ordering System
+A web-based ordering and management system for campus food services.  
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+### Secure Gaming Platform
+A platform with protected authentication flows and secure API routing.  
+**Tech Stack:** Node.js, JavaScript, Vercel
+
+### C++ Student Management System
+A console-based record management application built with structured programming concepts.  
+**Tech Stack:** C++
+
+---
+
+## Technical Stack
+
 <p align="center">
-  <i>Build Secure. Think Deep. Leave Zero Trace.</i>
+  <img src="https://skillicons.dev/icons?i=cpp,python,php,javascript,html,css,bootstrap,nodejs,mysql,linux,git,arduino,vscode" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raymondfanuel&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondfanuel&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raymondfanuel&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raymondfanuel&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## Achievements
+
+- Participant — Huawei Talent Competition (Network Track)
+- Founder — Coding Community at Dar es Salaam Institute of Technology
+- Active participant in cybersecurity CTF challenges
+- Developer of academic and practical software systems
+
+---
+
+## Current Focus
+
+- Advancing in Offensive Security and Red Teaming
+- Building security-focused development tools
+- Improving backend architecture and deployment skills
+- Contributing to open-source security and development projects
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raymondfanuel&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raymondfanuel/raymondfanuel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:raymondfanuel1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/raymondfanuel">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
