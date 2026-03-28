@@ -38,7 +38,7 @@
 
 ## About Me
 
-I am **Raymond Fanuel**, a Computer Engineering graduate from the **Dar es Salaam Institute of Technology (DIT)** with interests in secure software development, networking, and modern web systems.
+I am **Raymond Fanuel**, a Computer Engineering student from the **Dar es Salaam Institute of Technology (DIT)** with interests in secure software development, networking, and modern web systems.
 
 My work focuses on building **reliable, secure, and scalable applications** across web platforms, backend systems, and IoT-based solutions.
 
