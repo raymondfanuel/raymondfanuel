@@ -94,11 +94,11 @@ A console-based record management application built with structured programming 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raymondfanuel&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=3xploiter0&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raymondfanuel&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3xploiter0&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
