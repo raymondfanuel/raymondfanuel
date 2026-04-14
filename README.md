@@ -2,7 +2,7 @@
 <!--                  RAYMOND FANUEL README                -->
 <!-- ===================================================== -->
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FFCC&center=true&vCenter=true&width=1000&lines=root%40raymond%3A~%23+whoami;Offensive+Security+Enthusiast;Full+Stack+Developer;Think+Like+An+Attacker.+Build+Like+An+Engineer.;Web+Security+%7C+Red+Team+Journey+%7C+Kali+Linux+Mindset" />
 </p>
 
