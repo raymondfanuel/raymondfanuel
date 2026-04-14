@@ -1,10 +1,4 @@
-<!-- ===================================================== -->
-<!--                  RAYMOND FANUEL README                -->
-<!-- ===================================================== -->
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FFCC&center=true&vCenter=true&width=1000&lines=root%40raymond%3A~%23+whoami;Offensive+Security+Enthusiast;Full+Stack+Developer;Think+Like+An+Attacker.+Build+Like+An+Engineer.;Web+Security+%7C+Red+Team+Journey+%7C+Kali+Linux+Mindset" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Kali%20Linux-Vibe-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=00bfff" />
@@ -23,9 +17,6 @@
 </p>
 
 
-<!-- ============================== -->
-<!--           HEADER               -->
-<!-- ============================== -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/OSINT-Active-blue?style=flat-square" />
