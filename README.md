@@ -3,10 +3,6 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Raymond%20Fanuel&fontAlign=50&fontAlignY=40&color=0:020617,50:0f172a,100:000000&fontColor=00ffcc&desc=aka%203xploiter0%20%7C%20OffSec%20%7C%20Full%20Stack%20%7C%20Kali%20Vibes&descAlign=50&descAlignY=60" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FFCC&center=true&vCenter=true&width=1000&lines=root%40raymond%3A~%23+whoami;Offensive+Security+Enthusiast;Full+Stack+Developer;Think+Like+An+Attacker.+Build+Like+An+Engineer.;Web+Security+%7C+Red+Team+Journey+%7C+Kali+Linux+Mindset" />
 </p>
 
