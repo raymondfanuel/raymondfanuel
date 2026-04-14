@@ -15,16 +15,6 @@
   <img src="https://img.shields.io/badge/Status-Always%20Learning-000000?style=flat-square&logo=github&logoColor=ffffff" />
 </p>
 
-
-
-<p>
-  <img src="https://img.shields.io/badge/OSINT-Active-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Exploitation-Learning-critical?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-Mastermind-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infosec-Dev-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-success?style=flat-square" />
-</p>
-
 ---
 
 # 🧠 Whoami
