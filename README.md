@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/OSINT-Active-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=9fef00" />
   <img src="https://img.shields.io/badge/XSS-Studying-0a0a0a?style=for-the-badge&logo=target&logoColor=ff3131" />
   <img src="https://img.shields.io/badge/SQLi-Researching-0a0a0a?style=for-the-badge&logo=databricks&logoColor=ff7b00" />
-  <img src="https://img.shields.io/badge/RCE-Learning-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=facc15" />
 </p>
 
 <p align="center">
@@ -23,7 +22,6 @@
   <img src="https://img.shields.io/badge/Exploitation-Learning-critical?style=flat-square" />
   <img src="https://img.shields.io/badge/SQL-Mastermind-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Infosec-Dev-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Bash-PowerShell-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-success?style=flat-square" />
 </p>
 
