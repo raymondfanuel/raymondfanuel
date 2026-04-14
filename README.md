@@ -26,14 +26,4 @@
   <img src="https://img.shields.io/badge/Status-Always%20Learning-000000?style=flat-square&logo=github&logoColor=ffffff" />
 </p>
 
-root@raymond:~# whoami
-
-Name       : Raymond Fanuel
-Alias      : 3xploiter0
-Role       : Computer Engineer | Full Stack Developer | Cybersecurity Enthusiast
-Location   : Dar es Salaam, Tanzania
-Focus      : Web Security | Offensive Security | Secure Backend Systems
-Mindset    : Think like an attacker. Build like an engineer.
-Mission    : Learn exploitation deeply and create resilient systems.
-Contact    : raymondfanuel1@gmail.com
 
