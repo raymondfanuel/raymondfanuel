@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FFCC&center=true&vCenter=true&width=1000&lines=root%40raymond%3A~%23+whoami;Offensive+Security+Enthusiast;Full+Stack+Developer;Think+Like+An+Attacker.+Build+Like+An+Engineer.;Web+Security+%7C+Red+Team+Journey+%7C+Kali+Linux+Mindset" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Kali%20Linux-Vibe-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=00bfff" />
   <img src="https://img.shields.io/badge/OSINT-Active-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=9fef00" />
   <img src="https://img.shields.io/badge/XSS-Studying-0a0a0a?style=for-the-badge&logo=target&logoColor=ff3131" />
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/RCE-Learning-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=facc15" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Web%20Security-Focused-000000?style=flat-square&logo=cloudflare&logoColor=f97316" />
   <img src="https://img.shields.io/badge/Red%20Team-Aspiring-000000?style=flat-square&logo=protonvpn&logoColor=ef4444" />
   <img src="https://img.shields.io/badge/Backend-Secure%20Systems-000000?style=flat-square&logo=serverfault&logoColor=22c55e" />
